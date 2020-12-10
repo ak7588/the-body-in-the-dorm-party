@@ -1,5 +1,5 @@
-# The Body in the Dorm Party - Interactive Film
-## Project for Communications Lab, Fall 2020
+# The Body in the Dorm Party 
+## Interactive Film Project for Communications Lab, Fall 2020
 
 The Body in the Dorm Party is an interactive mystery that reveals Detective Kobenova’s murder investigation at an illegal dorm party. The storyline revolves around three main characters--the “suspects”--a student majoring in economics, a student majoring in theater arts, and another student majoring in history. 
 
